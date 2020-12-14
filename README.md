@@ -1,7 +1,8 @@
 # Grade Dashboard
 Visualize your Canvas grades over time. Part of a group project for ITSC 3155.
 
-ENTIRE SOURCE CODE WRITTEN AND EDITED BY MICHAEL PHELPS. 
+ENTIRE SOURCE CODE WRITTEN AND EDITED BY MICHAEL PHELPS (https://github.com/nottheswimmer). THIS REPO WAS MADE FOR SUBMISSION PURPOSES ONLY.
+
 
 ## Get Started
 1. `git clone https://github.com/nottheswimmer/grade_dashboard`
