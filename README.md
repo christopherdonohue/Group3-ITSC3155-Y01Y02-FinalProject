@@ -1,5 +1,6 @@
 # Grade Dashboard
 Visualize your Canvas grades over time. Part of a group project for ITSC 3155.
+
 ENTIRE SOURCE CODE WRITTEN AND EDITED BY MICHAEL PHELPS. 
 
 ## Get Started
